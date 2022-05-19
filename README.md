@@ -1,6 +1,6 @@
-# SpotMicro
+# Little Dragon - Spot Micro
 
-I am using this repository to track the progress of the build for my Spot Micro project.
+Little Dragon is my take on the project Spotmicro - robot dog. The original design was done by KDY0523 February 22, 2019. 
 
 <B> Little Dragon  / Spot Micro Build </B>
 
